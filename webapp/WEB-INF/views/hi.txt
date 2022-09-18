@@ -1,0 +1,1 @@
+view resolver all jsp files here
